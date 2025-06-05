@@ -4,7 +4,7 @@ I'm a passionate and detail-oriented **full-stack web developer** based in Hambu
 
 💼 At my current job, I’ve gained solid experience working with **backend technologies** like **Java** and **Spring Boot**, as well as **frontend frameworks** such as **Angular**. This professional background has allowed me to contribute to full-stack projects and collaborate with multidisciplinary teams.
 
-🎯 In my free time, I actively pursue new knowledge to stay up-to-date with the latest web technologies. I’ve completed several **certifications in React** and built personal projects using **Next.js**, **Tailwind CSS**, and **TypeScript** to improve my practical skills.
+🎯 In my free time, I actively pursue new knowledge to stay up-to-date with the latest web technologies. I’ve completed several **certifications in React** and built personal projects using **Next.js**, **React**, **Tailwind CSS**, and **TypeScript** to improve my practical skills.
 
 🌐 Feel free to visit my portfolio to see more about my work:  
 🔗 [portfolio-luisigl3sias.vercel.app](https://portfolio-luisigl3sias.vercel.app/)
