@@ -15,8 +15,8 @@ I'm a **full-stack web developer** and the founder of **[Iglesias Web Agency](ht
 | Project | Stack | Description |
 |---|---|---|
 | **[Iglesias Web Agency](https://www.iglesias-web-agency.de/)** | Nuxt 3, SCSS | My own agency site — editorial, premium, no templates |
-| **Velaros** | Nuxt 3 + Strapi 5 | Premium e-commerce platform (in development) |
-| **Nex Trading Intelligence** | Nuxt 4 | Landing for financial education + trading signals |
+| **[Velaros](https://velaros.eu/)** | Nuxt 3 + Strapi 5 | Premium e-commerce platform (in development) |
+| **[Nex Trading Intelligence](https://www.nextrading-intelligence.com/)** | Nuxt 4 | Landing for financial education + trading signals |
 | **Website Scanner** | Nuxt 4 | Web structure & SEO/GEO scanner built for AI-agent readiness |
 
 ---
