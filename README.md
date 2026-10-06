@@ -11,17 +11,18 @@
 
   ---
 
-  ## 🚀 Projects
+   ## 🚀 Projects
 
   | Project | Stack | Description |
   |---|---|---|
   | **[Iglesias Web Agency](https://www.iglesias-web-agency.de/)** | Nuxt 3, SCSS | My own agency site — editorial, premium, no templates |
   | **[Velaros](https://velaros.eu/)** | Nuxt 3 + Strapi 5 | Premium e-commerce platform (in development) |
+  | **[Duarte Reinigungsservice](https://www.duarte-reinigungsservice.com/)** | Nuxt 4, SCSS | One-page site for a local cleaning service client |
   | **[Nex Trading Intelligence](https://www.nextrading-intelligence.com/)** | Nuxt 4 | Landing for financial education + trading signals |
   | **[Website Scanner](https://iglesias-website-scanner.vercel.app/)** | Nuxt 4 | Web structure & SEO/GEO scanner built for AI-agent readiness |
+  | **[Portfolio](https://portfolio-luisigl3sias.vercel.app/)** | Nuxt | Personal developer portfolio |
 
   ---
-
   ## 🛠️  Tech Stack
 
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
